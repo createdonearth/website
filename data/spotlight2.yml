@@ -1,0 +1,19 @@
+####################### Spotlight #########################
+style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "second"
+title : "Hello!"
+content: |
+  Hello from Serban Simu!  I grew up in Romania, with a love of nature, and I jumped on a train every summer to hike one of the several gorgeus areas of the Carpathian mountains.  Most of them are now designated as National Parks.
+
+  Since then, the natural world shrunk considerably and most animals are gone.  Europe has a lot of beautiful National Parks but they are too small to allow for natural processes and wildlife.  The largest natural preserves are about 1/5th of Yosemite, and most are smaller than 1/10th of Yosemite.
+
+  I am now an engineer and tech entrepreneur, and I lived in Berkeley for the last 20 years.  In addition to my day job, I have made it my mission to help restore the natural world.  My focus is the creation of a large natural preserve in the Carpathian mountains, which has the chance of becoming the "Yellowstone of Europe", almost as large as Yosemite.
+
+  This work is led by Foundation Carpathia - a lot has been accomplished in over 10 years of operation, and a lot more is left to do!
+
+  I am organizing an evening event on May 11th at the David Brower Center in downtown Berkeley to indroduce the founders of Carpathia and   We would like to invite everyone interested in natural world restoration to learn about the project, watch a short documentary and have a fun evening over snacks and cocktails.
+
+button:
+  label: "Join Us on May 11th in Berkeley"
+  link: "https://www.eventbrite.com/e/carpathia-creating-the-yellowstone-of-europe-tickets-612680623237"
+image: "images/serban.jpg"

@@ -1,10 +1,11 @@
 ####################### Spotlight #########################
-style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Spotlight"
+title : "About myself"
 content: |
-  This is a <strong>Spotlight</strong> element, and it's generally used &ndash; as its name implies &ndash; to spotlight a particular feature, subject, or pretty much whatever. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  I grew up in Romania and studied computers and networks at the Polytechnic University in Bucharest and later ENST, France.  I jumped on a train every summer to hike the beautiful Carpathian mountains.  I moved to California in my late 20s where I co-founded Aspera in 2004 and Eluvio in 2018.  While I dedicate most minutes of every day to my work at Eluvio, I also focus on my passion-turned-mission to restore the natural environment and, part of that, youth development.
+
 button:
-  label: "Join Us on May 11th in Berkeley"
+  label: "Join Me on May 11th in Berkeley"
   link: "https://www.eventbrite.com/e/carpathia-creating-the-yellowstone-of-europe-tickets-612680623237"
-image: "images/fagaras_lynx.jpg"
+image: "images/serban.jpg"

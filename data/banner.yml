@@ -1,10 +1,14 @@
 ####################### Banner #########################
-style: "style5 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+style: "style3 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
 title : "Creating the Yellowstone of Europe"
-subtitle: |
-  Learn
+subtitle:
 content : |
-  This is a <strong>Banner</strong> element, and it's generally used as an introduction or opening statement. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-banner">details</a>).
+  Hello and welcome!  My name is Serban Simu - I am a tech entrepreneur in Berkeley, CA and I have made it my mission to help restore the natural world!
+
+  My focus is the creation of a large natural reserve in the Carpahian mountains, in Romania. Europe has many national parks and they are all beautiful, but too small for natural processes and wildlife.  We have a unique chance to create a natural reserve almost the size of Yosemite in the Southern Carpathian mountains!
+
+  I have joined forces with Foundation Carpathia and together we would like to introduce you to the Carpathia project.  Please join us Thursday May 11th at the David Brower Center in Berkeley for a short documentary, a discussion with the founders of Foundation Carpathia, followed by a cocktail hour!
+
 button:
   label: Join Us on May 11th in Berkeley
   link: https://www.eventbrite.com/e/carpathia-creating-the-yellowstone-of-europe-tickets-612680623237
